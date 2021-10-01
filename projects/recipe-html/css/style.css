@@ -1,0 +1,45 @@
+p{
+    font-size:16px;
+    font-family:'Roboto', sans-serif;
+    margin-top:20px;
+    font-weight:700;
+}
+
+
+h2,
+h3{
+    font-family:'PT Serif', serif;
+    color: blue;
+}
+
+h1{
+    font-size:4em;
+    color:cornflowerblue;
+    font-family:'PT Serif', serif;
+    font-weight:500;
+    margin-bottom:20px;
+}
+
+header p, 
+footer p{
+    color:gray;
+    font-size:.75em;
+    line-height:0;
+}
+
+ .preparation{
+    font-family:'Roboto', sans-serif;
+    font-weight:700; 
+    font-size:1em;
+ }
+
+ img{
+     margin:20px
+ }
+
+ .ingredients
+{
+    background-color: lightblue;
+    padding:20px;
+    margin-bottom:20px;
+}
