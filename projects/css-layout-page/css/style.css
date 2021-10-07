@@ -1,0 +1,21 @@
+img{
+    max-width:500px;
+}
+
+.logo{
+    width: 100px;
+
+}
+
+header{
+    color:green;
+    font-family: 'Merriweather', serif;
+    font-weight:700;
+}
+
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:400;
+}
+
