@@ -1,0 +1,86 @@
+
+
+body{
+    background-color: rgba(125, 184, 211, 0.849);
+    font-family: 'Roboto Slab', serif;
+    font-weight: 200;
+    font-size: 16px;
+}
+
+p{
+    font-size: 1.75em;
+}
+
+main{
+    background-color: white;
+    padding:20px 0;
+}
+
+h2{
+    text-transform: uppercase;
+    font-size: 1.3em;
+    background-color:rgb(86, 45, 161);
+    color: white;
+    font-weight:200;
+    padding:10px;
+}
+
+/* nav */
+.custom-nav{
+    background-color: rgb(86, 45, 161);
+    font-size:1.5em;
+    margin-bottom: 20px;
+    font-family: 'Roboto Slab', serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    border-bottom:5px solid 
+
+}
+.navbar-toggler{
+        margin:0 auto;
+        border: 0;
+    }
+
+.nav-link{
+    text-align: center;
+}
+
+/* nav head */
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size:5em;
+    text-align:center;
+    color:white;
+}
+
+/* pages */
+.content{
+    padding:20px;
+}
+
+
+.social a{
+    color: rgb(86, 45, 161);
+    padding-right:10px;
+}
+
+
+/* clips */
+.btn{
+    color: rgba(125, 184, 211, 0.849);
+    background: black;
+    text-transform: uppercase;
+    
+}
+.card-body{
+    text-align: center;
+}
+
+.card-title{
+    font-size: 1.2em;
+}
+
+.card{
+    margin-bottom:10px;
+}
