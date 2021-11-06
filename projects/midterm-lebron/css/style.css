@@ -1,0 +1,27 @@
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace; */
+
+/* colors:
+
+    green - #A8FF00 
+    gray - #8e8e8e */
+
+/* mediaquery breakpoints:
+
+    - 775px 
+    - 375px */
+
+
+.navbar-brand {
+    padding-bottom: 20px;
+}
+
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+
+}
+
+
